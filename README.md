@@ -36,7 +36,7 @@ F1-Score: 0.91
 
 Clone the repository:
 
-git clone [https://github.com/yourusername/Real-Time-Fraud-Detection.git](https://github.com/yourusername/Real-Time-Fraud-Detection.git)
+git clone [https://github.com/yourusername/Real-Time-Fraud-Detection.git](https://github.com/yourusername/Real-Time-Fraud-Detection-System.git)
 cd Real-Time-Fraud-Detection
 
 
